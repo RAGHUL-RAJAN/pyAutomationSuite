@@ -11,12 +11,10 @@
 
 # from_destination = driver.find_element(By.XPATH,"//*[@title='New Delhi']")
 # from_destination.click()
-
 # time.sleep(2)
 # inputfield = driver.find_element(By.XPATH,"//*[@id='input-with-icon-adornment']")
 # inputfield.send_keys("Chennai")
 # inputfield.send_keys(Keys.ENTER)
-
 
 # time.sleep(2)
 # to_destination = driver.find_element(By.XPATH,"//*[text()='Mumbai']")
